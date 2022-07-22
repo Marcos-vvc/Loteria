@@ -3,6 +3,7 @@
 ### O que funciona
 - Todos as funções 
 -  Responsividade feita
+- API: https://brainn-api-loterias.herokuapp.com/api/v1/docs/
 
 ### Link Surge 
  [Link do Surge](near-bite.surge.sh)
