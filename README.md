@@ -6,7 +6,7 @@
 - API: https://brainn-api-loterias.herokuapp.com/api/v1/docs/
 
 ### Link Surge 
- [Link do Surge](near-bite.surge.sh)
+ [Link do Surge](http://near-bite.surge.sh)
 
 
 ### Imagens
